@@ -16,9 +16,14 @@ I understand that there is still a lot to learn in the tech field, but now I hav
 
 * HTML5
 * CSS3
+* tailwind
+* bootstrap
 * JavaScript
 * React.js
 * Responsive Web Design
+* Next js
+* typesscript
+* ES6
 
 ### Back-End Development
 
@@ -26,6 +31,7 @@ I understand that there is still a lot to learn in the tech field, but now I hav
 * Express.js
 * REST APIs
 * Authentication and Routing
+* cloud
 
 ### Database Management
 
@@ -39,6 +45,7 @@ I understand that there is still a lot to learn in the tech field, but now I hav
 * Working with APIs
 * Team Collaboration
 * Project Deployment basics
+* AI foundatins
 
 ## My Experience
 
